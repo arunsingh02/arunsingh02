@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Arun Singh and I am a Python Developer. Now a days I am looking more about coustomer bugs/escalations to explore the product and customer experiences.
-- 👀 I’m interested in writting logics, fixing bugs and made happy to our customers.
-- 🌱 I’m currently learning c++, GoLang, K8 and Could storage.
-- 💞️ I’m looking to collaborate on Python, Ansible, Docker and Storage.
+- 👋 Hi, I’m Arun Singh and I am a Backend (Python, c++, golang) Developer. Nowadays I am looking more at customer bugs/escalations to explore the product and customer experiences.
+- 👀 I’m interested in writing logic, fixing bugs, and making happy to our customers.
+- 🌱 I’m currently learning K8s and Could storage fundamentals.
+- 💞️ I’m looking to collaborate on Python,golang, Ansible, Docker, and Storage.
 - 📫 You can reach me on arunsingh.wave2@gmail.com
 
 <!---
